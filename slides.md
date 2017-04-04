@@ -5,6 +5,11 @@ build-lists: true
 <br>
 # [fit] Michal Sänger `<michal.sanger@kiwi.com>`
 
+^
+Kiwi.com is now in Prague!
+I was a leader of fullstack javascript team in Actum. We made few native
+apps in React Native and this talk will be a bunch of notes about this funny days.
+
 ---
 
 # [fit] React Native
@@ -57,6 +62,7 @@ Too many stuff together
 Browser and mobile should share logic, not a layout
 `import { Platform } from 'react-native'`
 `.ios.js` and `.android.js` extensions
+Use [Storybook](https://getstorybook.io/) with [necolas/react-native-web](https://github.com/necolas/react-native-web)
 
 ---
 

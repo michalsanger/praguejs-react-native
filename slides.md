@@ -11,6 +11,7 @@ build-lists: true
 # [fit] works well
 
 ^
+ReactJS + lot of new stuff
 DPI support for images
 Live reload
 Debugger
@@ -100,5 +101,11 @@ Anyone in team should be able to make a release
 
 ---
 
-# [fit] Kiwi@PRG is hiring!
 ![](kiwi-prague-start.jpg)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+# [fit] Kiwi@PRG is hiring!

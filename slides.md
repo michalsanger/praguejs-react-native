@@ -7,15 +7,16 @@ build-lists: true
 
 ---
 
-# [fit] Navigation
+# [fit] React Native
+# [fit] works well
+
+---
+
+# [fit] Fast Computer
 
 ---
 
 # [fit] Boilerplate
-
----
-
-# [fit] Native Developer
 
 ---
 
@@ -27,15 +28,20 @@ build-lists: true
 
 ---
 
+# [fit] Navigation
+
+---
+
+# [fit] Native Developer
+
+
+---
+
 # [fit] Deployment
 
 ---
 
 # [fit] Error reporting
-
----
-
-# [fit] Fast Computer
 
 ---
 

@@ -39,20 +39,17 @@ Macbook Pro
 
 ^
 It's OK to read Boilerplates! Source of knowledge
-Fast prototype OK
+OK for a prototype
 Too many stuff together
-[Este](https://github.com/este/este)
-[Actum Devstack](https://github.com/actum/devstack/pull/83)
-[Pepperoni](https://github.com/futurice/pepperoni-app-kit)
-[create-react-native-app](https://github.com/react-community/create-react-native-app)
+Este, Actum Devstack, Pepperoni, create-react-native-app
 
 ---
 
 # [fit] Learn Flexbox
 
 ^
-[flexbox.io](https://flexbox.io/)
-[flexboxfroggy.com](http://flexboxfroggy.com/)
+flexbox.io by Wes Bos
+flexboxfroggy.com
 
 ---
 
@@ -63,7 +60,7 @@ Too many stuff together
 Browser and mobile should share logic, not a layout
 `import { Platform } from 'react-native'`
 `.ios.js` and `.android.js` extensions
-Use [Storybook](https://getstorybook.io/) with [necolas/react-native-web](https://github.com/necolas/react-native-web)
+Use Storybook with `necolas/react-native-web`
 
 ---
 
@@ -73,9 +70,9 @@ Use [Storybook](https://getstorybook.io/) with [necolas/react-native-web](https:
 ^
 Not like in the browser
 You want: animations, tabs, modals, deep linking, drawer, redux...
-[airbnb/native-navigation](https://github.com/airbnb/native-navigation) in beta
-[wix/react-native-navigation](https://github.com/wix/react-native-navigation) waiting for v2
-[React Natigation](https://reactnavigation.org/) in beta
+airbnb/native-navigation is in beta
+wix/react-native-navigation refactoring into v2
+React Natigation is in beta
 
 ---
 
@@ -83,7 +80,7 @@ You want: animations, tabs, modals, deep linking, drawer, redux...
 # [fit] is still needed
 
 ^
-Best to be in the team or at least ready to help
+Best to have him in the team or at least ready to help
 Native modules
 Deployment
 
@@ -94,7 +91,7 @@ Deployment
 
 ^
 Anyone in team should be able to make a release
-[fastlane.tools](https://fastlane.tools/)
+fastlane.tools
 
 ---
 
@@ -102,9 +99,9 @@ Anyone in team should be able to make a release
 # [fit] Error Reporting
 
 ^
-[fabric.io](https://get.fabric.io/)
-[Firebase](https://firebase.google.com/)
-[Sentry React Native](https://docs.sentry.io/clients/react-native/)
+fabric.io
+Firebase
+Sentry React Native
 
 ---
 
@@ -118,7 +115,7 @@ Anyone in team should be able to make a release
 # [fit] Kiwi@PRG is hiring!
 
 ^
-[Javascript developer](https://www.kiwi.com/jobs/job/javascript-developer/)
+Javascript developer
 
 ---
 
@@ -127,34 +124,34 @@ Anyone in team should be able to make a release
 ---
 
 ## Devstacks
-- [Este](https://github.com/este/este)
-- [Actum Devstack](https://github.com/actum/devstack/pull/83)
-- [Pepperoni](https://github.com/futurice/pepperoni-app-kit)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
+- github.com/este/este
+- github.com/actum/devstack/pull/83
+- github.com/futurice/pepperoni-app-kit
+- github.com/react-community/create-react-native-app
 
 ## Flexbox
-- [flexbox.io](https://flexbox.io/)
-- [flexboxfroggy.com](http://flexboxfroggy.com/)
+- flexbox.io
+- flexboxfroggy.com
 
 ---
 
 ## UI
-- [Storybook](https://getstorybook.io/)
-- [necolas/react-native-web](https://github.com/necolas/react-native-web)
+- getstorybook.io
+- github.com/necolas/react-native-web
 
 ## Navigation
-- [airbnb/native-navigation](https://github.com/airbnb/native-navigation)
-- [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-- [React Natigation](https://reactnavigation.org/)
+- github.com/airbnb/native-navigation
+- github.com/wix/react-native-navigation
+- reactnavigation.org
 
 ---
 
 ## Deployment & Monitoring
-- [fastlane.tools](https://fastlane.tools/)
-- [fabric.io](https://get.fabric.io/)
-- [Firebase](https://firebase.google.com/)
-- [Sentry React Native](https://docs.sentry.io/clients/react-native/)
+- https://fastlane.tools
+- get.fabric.io
+- firebase.google.com
+- docs.sentry.io/clients/react-native
 
 ## Kiwi is hiring!
-- [Kiwi jobs](https://www.kiwi.com/jobs/)
-- [Javascript developer, Prague](https://www.kiwi.com/jobs/job/javascript-developer/)
+- kiwi.com/jobs
+- kiwi.com/jobs/job/javascript-developer

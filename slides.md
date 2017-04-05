@@ -119,3 +119,42 @@ Anyone in team should be able to make a release
 
 ^
 [Javascript developer](https://www.kiwi.com/jobs/job/javascript-developer/)
+
+---
+
+# [fit] Links
+
+---
+
+## Devstacks
+- [Este](https://github.com/este/este)
+- [Actum Devstack](https://github.com/actum/devstack/pull/83)
+- [Pepperoni](https://github.com/futurice/pepperoni-app-kit)
+- [create-react-native-app](https://github.com/react-community/create-react-native-app)
+
+## Flexbox
+- [flexbox.io](https://flexbox.io/)
+- [flexboxfroggy.com](http://flexboxfroggy.com/)
+
+---
+
+## UI
+- [Storybook](https://getstorybook.io/)
+- [necolas/react-native-web](https://github.com/necolas/react-native-web)
+
+## Navigation
+- [airbnb/native-navigation](https://github.com/airbnb/native-navigation)
+- [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+- [React Natigation](https://reactnavigation.org/)
+
+---
+
+## Deployment & Monitoring
+- [fastlane.tools](https://fastlane.tools/)
+- [fabric.io](https://get.fabric.io/)
+- [Firebase](https://firebase.google.com/)
+- [Sentry React Native](https://docs.sentry.io/clients/react-native/)
+
+## Kiwi is hiring!
+- [Kiwi jobs](https://www.kiwi.com/jobs/)
+- [Javascript developer, Prague](https://www.kiwi.com/jobs/job/javascript-developer/)

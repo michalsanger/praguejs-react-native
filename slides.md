@@ -42,6 +42,7 @@ It's OK to read Boilerplates! Source of knowledge
 Fast prototype OK
 Too many stuff together
 [Este](https://github.com/este/este)
+[Actum Devstack](https://github.com/actum/devstack/pull/83)
 [Pepperoni](https://github.com/futurice/pepperoni-app-kit)
 [create-react-native-app](https://github.com/react-community/create-react-native-app)
 
@@ -115,3 +116,6 @@ Anyone in team should be able to make a release
 <br>
 <br>
 # [fit] Kiwi@PRG is hiring!
+
+^
+[Javascript developer](https://www.kiwi.com/jobs/job/javascript-developer/)
